@@ -1,6 +1,6 @@
 # ventil-8
 
-### Open-source ventilator project developed by Griffith 
+### Open-source ventilation assistance device project developed by Griffith 
 
 For distribution and use anywhere. 
 
