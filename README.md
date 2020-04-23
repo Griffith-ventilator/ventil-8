@@ -8,4 +8,4 @@ For distribution and use anywhere.
 Format: ![Alt Text](url)
 
 
-** Please check with your local medical oficials before using on patients.**
+** Please check with your local medical oficials before use.**
