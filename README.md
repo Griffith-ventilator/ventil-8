@@ -2,7 +2,7 @@
 
 ## Open-source ventilation assistance device project developed by Griffith 
 
-** Please check with your local medical oficials before use.**
+** Please check with your local medical officials or professionals before use.**
 
 
 ### General
