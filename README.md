@@ -13,8 +13,8 @@ For distribution and use to assist medical professionals with:
 * Non-invasive Ventilation (NIV), and 
 * Ventilation via intubation (potentially) 
 
-![CAD file](/images/cad1.png)
-<img align="left" width="100" height="100" src="/images/cad1.png">
+
+<img align="centre" width="700" height="700" src="/images/cad1.png">
 
 Adjustments available:
 
