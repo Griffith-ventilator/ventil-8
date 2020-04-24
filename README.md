@@ -1,10 +1,11 @@
 # ventil-8
 
-### Open-source ventilation assistance device project developed by Griffith 
-
-#### General
+## Open-source ventilation assistance device project developed by Griffith 
 
 ** Please check with your local medical oficials before use.**
+
+
+### General
 
 For distribution and use to assist medical professionals with:
 
@@ -24,16 +25,14 @@ Adjustments available:
    * 2:3
 
 
+### Motor
+Any automotive windscreen wiper motor. Toyota sedan model used in CAD files and images.
 
-#### Powersupply and speed control 
 
-PWM Controller to adjust Breaths per Minute
+### Powersupply and speed control 
 
-https://www.jaycar.com.au/12vdc-8a-dimmer-motor-speed-controller/p/MP3209
+[PWM Controller to adjust Breaths per Minute] (https://www.jaycar.com.au/12vdc-8a-dimmer-motor-speed-controller/p/MP3209)
 
-Powersupply made from any cheap computer PSU
+[Power supply unit (PSU) from personal computer] (https://www.electronics-tutorials.ws/blog/convert-atx-psu-to-bench-supply.html)
 
-https://www.electronics-tutorials.ws/blog/convert-atx-psu-to-bench-supply.html
-
-A single 12V PSU connection was used from Molex connector. PSU case must be seperated from main ventilator case (if made of metal)
-using nylon washers or equiv.
+A single 12V PSU connection was used from Molex connector. PSU case must be seperated from main ventilator case (if made of metal) using nylon washers or equivalent.
