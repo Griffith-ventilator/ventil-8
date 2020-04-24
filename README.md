@@ -13,7 +13,8 @@ For distribution and use to assist medical professionals with:
 * Non-invasive Ventilation (NIV), and 
 * Ventilation via intubation (potentially) 
 
-![GitHub Logo](/images/cad1.png)
+![CAD file](/images/cad1.png)
+<img align="left" width="100" height="100" src="/images/cad1.png">
 
 Adjustments available:
 
@@ -31,8 +32,8 @@ Any automotive windscreen wiper motor. Toyota sedan model used in CAD files and 
 
 ### Powersupply and speed control 
 
-[PWM Controller to adjust Breaths per Minute] (https://www.jaycar.com.au/12vdc-8a-dimmer-motor-speed-controller/p/MP3209)
+[PWM Controller to adjust Breaths per Minute](https://www.jaycar.com.au/12vdc-8a-dimmer-motor-speed-controller/p/MP3209)
 
-[Power supply unit (PSU) from personal computer] (https://www.electronics-tutorials.ws/blog/convert-atx-psu-to-bench-supply.html)
+[Power supply unit (PSU) from personal computer](https://www.electronics-tutorials.ws/blog/convert-atx-psu-to-bench-supply.html)
 
 A single 12V PSU connection was used from Molex connector. PSU case must be seperated from main ventilator case (if made of metal) using nylon washers or equivalent.
