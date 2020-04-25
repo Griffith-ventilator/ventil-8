@@ -1,6 +1,6 @@
 # ventil-8
 
-## Open-source ventilation assistance device project developed by Griffith 
+## Open-source ventilation assistance device project developed by Griffith University
 
 ** Please check with your local medical officials or professionals before use.**
 
